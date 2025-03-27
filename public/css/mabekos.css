@@ -1,0 +1,16 @@
+.btn-color{
+    background-color: #A53692;
+    color: #fff;
+  }
+
+  .btn-color:hover {
+    background-color: #cc7cbe;
+    color: #fff;
+  }
+  .card-painel{
+    transition: box-shadow .25s;
+    padding: 20px;
+    margin: 0.5rem 0 1rem 0;
+    border-radius: 2px;
+    background-color: #f7edf7;
+  }
